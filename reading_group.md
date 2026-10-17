@@ -23,11 +23,11 @@ nav-menu: true
 <section>
 	<hr class="major" />
 		<div class="content">
-			<h2>Next Meeting: Saturday, October 10, 2026</h2>
-				<p>The theme of Octobers’s meeting will be “Time and Seasons,” and we will discuss the following readings:
+			<h2>Next Meeting: Saturday, November 14, 2026</h2>
+				<p>The theme of November’s meeting will be “Environmental Justice,” and we will discuss the following readings:
 				<p><ul>
-					<li>Harmansah, O. (2020). “Deep Time and Landscape History: How Can Historical Particularity Be Translated?” Timescales: Thinking Across Ecological Temporalities. P. E. Kim, C. Fornoff, and B. Wiggins (eds). University of Minnesota Press. 39-54.</li>
-					<li>Ialenti, V.F. (2014) “Adjudicating Deep Time: Revisiting the United States’ High-Level Nuclear Waste Repository Project at Yucca Mountain”, Science & Technology Studies, 27(2), pp. 27–48. doi:10.23987/sts.55323.</li>
+					<li>Juskus, Ryan. 2023. “Sacrifice Zones: A Genealogy and Analysis of an Environmental Justice Concept”. Environmental Humanities, 15.1: 3-24. doi: https://doi.org/10.1215/22011919-10216129.</li>
+					<li>Nixon, Rob. 2011. “Introduction”. Slow Violence and the Environmentalism of the Poor. Harvard University Press. 1-16 (of 44). Also printed in <i>The Norton Anthology of Theory and Criticism</i>, 3rd edition (2018).</li>
 				</ul>
 				</p>
 				<p>If you are unable to access any of the articles through your institution or local library, please contact us and we will help to locate a copy for you.</p>
